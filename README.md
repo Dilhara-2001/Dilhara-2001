@@ -44,5 +44,5 @@ Android mobile application developed using Kotlin.
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
-- Email: your professional email
+- LinkedIn: www.linkedin.com/in/navindu-dilhara-269a54377
+- Email: kndilhara01@gmail.com
