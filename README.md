@@ -1,4 +1,4 @@
-# Hi, I'm Dilhara 👋
+# Hi, I'm Navindu 👋
 
 🎓 Data Science Undergraduate  
 💻 Interested in Machine Learning, Artificial Intelligence, Data Analytics and Backend Development  
