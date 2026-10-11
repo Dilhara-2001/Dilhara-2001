@@ -73,39 +73,53 @@
 
 ---
 
+
+
 ## 🚀 Featured Projects
 
 ### 🔬 Scientific Research AI
+Multi-agent AI system for retrieving, analyzing, and verifying scientific research information using RAG.
 
-A multi-agent AI system designed to retrieve, analyze and verify scientific information using Retrieval-Augmented Generation.
-
-**Tech Stack:** `Python` `FastAPI` `RAG` `Gemini API` `Supabase`
+**🛠️ Tech Stack:** `Python` `FastAPI` `RAG` `Gemini API` `Supabase`
 
 🔗 [View Project](https://github.com/lakshithakalhara7/scientific-research-ai)
 
+---
+
 ### ✈️ Flight Delay Prediction System
+Machine Learning application for predicting flight departure delays using historical aviation data.
 
-A machine learning application that predicts flight departure delays using historical aviation data, preprocessing and predictive modeling.
-
-**Tech Stack:** `Python` `Machine Learning` `Flask` `Gradient Boosting`
+**🛠️ Tech Stack:** `Python` `Scikit-learn` `Flask` `Machine Learning`
 
 🔗 [View Project](https://github.com/Dilhara-2001/flight-delay-prediction-system)
 
+---
+
 ### 💼 FlexiJobs
+Android mobile application connecting temporary job seekers with employers to discover and publish job opportunities.
 
-An Android application connecting temporary job seekers with employers who publish job opportunities.
+**🛠️ Tech Stack:** `Kotlin` `Android` `Android Studio`
 
-**Tech Stack:** `Kotlin` `Android`
+---
 
 ### 📱 Moodora
+Android mobile application developed using Kotlin, focusing on mobile interface design and user experience.
 
-An Android mobile application developed using Kotlin and Android development tools.
-
-**Tech Stack:** `Kotlin` `Android`
+**🛠️ Tech Stack:** `Kotlin` `Android` `Android Studio`
 
 🔗 [View Project](https://github.com/Dilhara-2001/Moodora-App)
 
 ---
+
+<div align="center">
+
+### 🌟 Explore More Projects
+
+<a href="https://github.com/Dilhara-2001?tab=repositories">
+</a>
+
+</div>
+
 
 ## 📊 GitHub Statistics
 
