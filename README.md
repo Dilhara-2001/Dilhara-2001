@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Navindu!
 
-### Data Science Undergraduate | AI & ML Enthusiast | Backend Developer
+### Data Science Undergraduate | AI & ML Enthusiast | Frontend & Backend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+AI+and+Machine+Learning;Exploring+RAG+and+Intelligent+Agents;Building+Data-Driven+Solutions;Always+Learning+Something+New!" alt="Animated introduction" />
 
