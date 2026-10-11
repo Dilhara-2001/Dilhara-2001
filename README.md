@@ -27,40 +27,18 @@
 
 ---
 
+
 ## 🧑‍💻 About Me
 
-```python
-class Navindu:
-    def __init__(self):
-        self.role = "Data Science Undergraduate"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Data Analytics",
-            "Backend Development"
-        ]
-        self.currently_exploring = [
-            "Retrieval-Augmented Generation",
-            "Intelligent AI Agents",
-            "NLP",
-            "FastAPI"
-        ]
+🎓 Data Science Undergraduate passionate about Artificial Intelligence, Machine Learning, and Backend Development.
 
-    def say_hi(self):
-        print("Welcome to my GitHub profile!")
+- 🔭 **Currently Working On:** AI-powered and Machine Learning projects
+- 🤖 **Exploring:** RAG, NLP, and Multi-Agent AI Systems
+- 📊 **Interested In:** Data Science, Predictive Analytics, and Intelligent Systems
+- 🌱 **Currently Learning:** Python, FastAPI, and Advanced AI Technologies
+- 💡 **Goal:** Building innovative, data-driven solutions to real-world problems
+- 🤝 **Collaboration:** Open to AI, ML, and Data Science projects
 
-me = Navindu()
-me.say_hi()
-```
-
-- 🔭 Currently building **AI-powered and Machine Learning projects**
-- 🤖 Exploring **RAG, NLP and Multi-Agent AI Systems**
-- 📊 Interested in **Data Science, Analytics and Predictive Modeling**
-- 🌱 Learning **Backend Development with FastAPI**
-- 💡 Passionate about solving real-world problems using technology
-- 🤝 Open to collaborating on **AI, ML and Data Science projects**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -147,15 +125,6 @@ An Android mobile application developed using Kotlin and Android development too
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dilhara-2001&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%"/>
-
-</div>
-
----
 
 ## 🎯 Areas of Interest
 
